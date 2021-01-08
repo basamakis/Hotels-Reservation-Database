@@ -26,9 +26,17 @@ _Pre-requisites_
 	
 ________How to Run The Program__________
 
-1.Download All files
-2.Install packages mentioned above
-2.Open main and execute the code
+1 - Download All files
+2 - Install packages mentioned above
+2 - Open main and execute the code
+
+________Useful Information__________
+
+1 - If you dont have Patras vpn and want to run the program run the database in the file MySqlProject locally and then open the queries.py file and change in each function the arguments of the database connection command with the ones you created.
+2 - Be careful with the dates the program only support dates with the format 'yyyy-mm-dd'
+3 - Try not to use many characters in each entry and for ID Number in registration use 8 characters exactly
+4 - Keep in mind that there are not many data in the databse so before you start searching check its contents
+
 
 ________Features_____________________
 
