@@ -37,6 +37,7 @@ the arguments of the database connection command with the ones you created.
 2 - Be careful with the dates the program only support dates with the format 'yyyy-mm-dd'
 3 - Try not to use many characters in each entry and for ID Number in registration use 8 characters exactly
 4 - Keep in mind that there are not many data in the database so before you start searching check its contents
+5 - When you try to add room to a hotel first you press fill and then you press addRoom for every room you want to add
 
 
 ________Features_____________________
