@@ -7,7 +7,7 @@ A simple lightweight GUI tool to handle the structure of a Hotel reservation sys
 
 Read me file
 
-Date: 07/01/2021
+Date: 08/01/2021
 _________________________________________________________________________________________________________________________
 
 
@@ -26,8 +26,9 @@ _Pre-requisites_
 	
 ________How to Run The Program__________
 
-1.Do the steps mentioned above
-2.Open exe file in DataBasesProject\Python_Project\dist
+1.Download All files
+2.Install packages mentioned above
+2.Open main and execute the code
 
 ________Features_____________________
 
