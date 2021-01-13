@@ -48,7 +48,7 @@ def adduser(username, password, fname, lname, email, idnum, pnum, country, sex, 
     lname = "\'" + lname + "\'"
     if len(lname)< 3 and len(lname)> 20: return 0
     idnum = "\'" + idnum + "\'"
-    if len(idnum) <= 10: return 0
+    if len(idnum) < 8 and len(idnum) >13 : return 0
     email = "\'" + email + "\'"
     if len(email)<12 and len(email)>254: return 0
     pnum = "\'" + pnum + "\'"
