@@ -19,15 +19,13 @@ and requires a user to Install a latest version of Python and minimum python ver
 _Pre-requisites_ 
 
 1 - Minimum version Python 3.0
-2 - Install Tkinter library in Python 
-3 - Install the PyMySQL library by following the next steps:
-4 - Access to University of Patras IP. In case you don't have VPN installed,consult this link: 
+2 - Access to University of Patras IP. In case you don't have VPN installed,consult this link: 
 	https://www.upnet.gr/vpn/
 	
 ________How to Run The Program__________
 
 1.Do the steps mentioned above
-2.Open exe file in DataBasesProject\Python_Project\dist
+2.Open the main file and run the code
 
 ________Features_____________________
 
